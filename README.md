@@ -1,2 +1,2 @@
 # DSA
-LAB PRACTICAL FILE DSA
+Problem Statement-This project implements a Weather Data Storage System using a 2D array-based structure in Python. It defines a WeatherRecord ADT to store date, city, and temperature information, and a WeatherDataStorage class to manage data efficiently. The system supports inserting and retrieving temperature records, displaying data in both row-major and column-major order, and handling sparse data using sentinel values (None). It also includes a time and space complexity analysis. The example usage demonstrates record insertion, retrieval, and traversal for different cities and years.
